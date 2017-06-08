@@ -1,8 +1,8 @@
 {
-    "name": "weidner/goutte",
+    "name": "gosoftwareltd/laravel-goutte",
     "description": "Laravel 5 package for Gouette, a simple PHP Web Scraper",
     "license": "MIT",
-    "keywords": ["weidner", "goutte", "laravel"],
+    "keywords": ["gosoftwareltd", "goutte", "laravel"],
     "homepage": "https://github.com/dweidner/laravel-goutte",
     "authors": [
         {
