@@ -14,7 +14,13 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "5.*",
-        "fabpot/goutte": "^3.1"
+        "fabpot/goutte": "^3.2.2"
+    },
+    "repositories": {
+        "goutte": {
+            "type": "vcs",
+            "url": "https://github.com/GoSoftwareLtd/Goutte.git"
+        }
     },
     "autoload": {
         "psr-4": {
